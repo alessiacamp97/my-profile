@@ -7,15 +7,10 @@ body {
 
 }
 
-
-
-
-
 .container {
 	width: 700px;
 	margin: 40px auto;
 }
-
 .card-white {
 	background-color: white;
 	padding: 40px;
@@ -24,22 +19,19 @@ body {
 	margin: 20px 0px;
 	text-align: center;
 }
-
 #myPhoto {
 	width: 250px;
 	border-radius: 50%;
 }
-
-.btn-blue {
-	background-color: rgb(200, 162, 200);
+.btn-red {
+	background-color: rgb(204, 102, 102);
 	color: black;
 	padding: 15px 20px;
 	border-radius: 10px;
 }
-
-.btn-blue:hover {
+.btn-red:hover {
 	background-color: black;
-	color: rgb(200, 162, 200);
+	color: rgb(204, 102, 102);
 }
 
 a:hover {
@@ -77,7 +69,6 @@ a:hover {
 		width: 600px;
 	}
 }
-
 
 @media (max-width: 500px){
 
